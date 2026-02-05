@@ -1,0 +1,245 @@
+[
+    {
+        "id": "spec-001",
+        "title": "Accident & Emergency",
+        "slug": "accident-emergency",
+        "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?q=80&w=800",
+        "icon": "Ambulance",
+        "category": "Emergency Care",
+        "description": "24/7 emergency care for critical injuries and sudden medical conditions with a dedicated trauma team."
+    },
+    {
+        "id": "spec-002",
+        "title": "Anaesthesia",
+        "slug": "anaesthesia",
+        "image": "https://images.unsplash.com/photo-1551606717-40344b55452b?q=80&w=800",
+        "icon": "Syringe",
+        "category": "Surgical Support",
+        "description": "Specialized pain management and anaesthetic care during complex surgical procedures."
+    },
+    {
+        "id": "spec-003",
+        "title": "Blood Bank",
+        "slug": "blood-bank",
+        "image": "https://images.unsplash.com/photo-1615461066841-6116ecaabb04?q=80&w=800",
+        "icon": "Droplets",
+        "category": "Laboratory Services",
+        "description": "Safe and reliable blood transfusion services with rigorous screening and 24/7 availability."
+    },
+    {
+        "id": "spec-004",
+        "title": "Cancer Care Center",
+        "slug": "cancer-care-center",
+        "image": "https://images.unsplash.com/photo-1579154234428-57ec224260bf?q=80&w=800",
+        "icon": "Ribbon",
+        "category": "Oncology",
+        "description": "Comprehensive oncology services including chemotherapy, radiation, and surgical oncology."
+    },
+    {
+        "id": "spec-005",
+        "title": "Cardiology",
+        "slug": "cardiology",
+        "image": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?q=80&w=800",
+        "icon": "HeartPulse",
+        "category": "Heart Care",
+        "description": "Advanced heart care, including diagnostics, interventional cardiology, and non-invasive treatments."
+    },
+    {
+        "id": "spec-006",
+        "title": "Cardiothoracic & Vascular Surgery",
+        "slug": "cardiothoracic-vascular-surgery",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?q=80&w=800",
+        "icon": "Stethoscope",
+        "category": "Heart Surgery",
+        "description": "High-precision surgeries for the heart, lungs, and blood vessels."
+    },
+    {
+        "id": "spec-007",
+        "title": "Counselling Center",
+        "slug": "counselling-center",
+        "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=800",
+        "icon": "Users",
+        "category": "Mental Health",
+        "description": "Psychological support and professional counselling for mental well-being and emotional health."
+    },
+    {
+        "id": "spec-008",
+        "title": "Critical Care Unit",
+        "slug": "critical-care-unit",
+        "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?q=80&w=800",
+        "icon": "Activity",
+        "category": "Intensive Care",
+        "description": "Advanced life support systems and intensive monitoring for critically ill patients."
+    },
+    {
+        "id": "spec-009",
+        "title": "Dental & Maxillofacial Surgery",
+        "slug": "dental-maxillofacial-surgery",
+        "image": "https://images.unsplash.com/photo-1598256943531-925243179261?q=80&w=800",
+        "icon": "Smile",
+        "category": "Oral Health",
+        "description": "Complete oral care, dental implants, and complex surgeries for the face and jaw."
+    },
+    {
+        "id": "spec-010",
+        "title": "Dermatology & Venereology",
+        "slug": "dermatology-venereology",
+        "image": "https://images.unsplash.com/photo-1584515263483-df772fd2f636?q=80&w=800",
+        "icon": "Sparkles",
+        "category": "Skin Care",
+        "description": "Expert diagnosis and treatment for skin conditions, allergies, and venereal diseases."
+    },
+    {
+        "id": "spec-011",
+        "title": "Dietetics & Nutrition",
+        "slug": "dietetics-nutrition",
+        "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=800",
+        "icon": "Apple",
+        "category": "Wellness",
+        "description": "Personalized diet plans and nutritional counselling for healthy living and disease management."
+    },
+    {
+        "id": "spec-012",
+        "title": "Endocrinology & Diabetology",
+        "slug": "endocrinology-diabetology",
+        "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800",
+        "icon": "Thermometer",
+        "category": "Hormone Health",
+        "description": "Specialized care for diabetes, thyroid disorders, and other endocrine system imbalances."
+    },
+    {
+        "id": "spec-013",
+        "title": "ENT & Head Neck Surgery",
+        "slug": "ent-head-neck-surgery",
+        "image": "https://images.unsplash.com/photo-1559757175-013fe5899ef8?q=80&w=800",
+        "icon": "Ear",
+        "category": "Surgical Care",
+        "description": "Treatments for ear, nose, throat, and complex head and neck surgical procedures."
+    },
+    {
+        "id": "spec-014",
+        "title": "Gastroenterology & Hepatology",
+        "slug": "gastroenterology-hepatology",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?q=80&w=800",
+        "icon": "Tablets",
+        "category": "Digestive Health",
+        "description": "Expertise in digestive system disorders and liver-related diseases including endoscopy."
+    },
+    {
+        "id": "spec-015",
+        "title": "General & Laparoscopic Surgery",
+        "slug": "general-laparoscopic-surgery",
+        "image": "https://images.unsplash.com/photo-1512678080530-7760d81faba6?q=80&w=800",
+        "icon": "Scissors",
+        "category": "Surgical Care",
+        "description": "Minimally invasive laparoscopic surgeries and a wide range of general surgical procedures."
+    },
+    {
+        "id": "spec-016",
+        "title": "Internal Medicine",
+        "slug": "internal-medicine",
+        "image": "https://images.unsplash.com/photo-1576091160550-2173dad99902?q=80&w=800",
+        "icon": "Clipboard",
+        "category": "Primary Care",
+        "description": "Comprehensive adult healthcare for chronic conditions and overall wellness."
+    },
+    {
+        "id": "spec-017",
+        "title": "Lab Medicine",
+        "slug": "lab-medicine",
+        "image": "https://images.unsplash.com/photo-1579154234428-57ec224260bf?q=80&w=800",
+        "icon": "FlaskConical",
+        "category": "Diagnostics",
+        "description": "High-precision diagnostic laboratory services for accurate disease detection."
+    },
+    {
+        "id": "spec-018",
+        "title": "Neonatology",
+        "slug": "neonatology",
+        "image": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?q=80&w=800",
+        "icon": "Baby",
+        "category": "Child Care",
+        "description": "Specialized care for newborn infants, particularly those who are ill or born prematurely."
+    },
+    {
+        "id": "spec-019",
+        "title": "Nephrology",
+        "slug": "nephrology",
+        "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=800",
+        "icon": "Activity",
+        "category": "Kidney Care",
+        "description": "Expert care for kidney-related diseases, hypertension, and dialysis services."
+    },
+    {
+        "id": "spec-020",
+        "title": "Neurology",
+        "slug": "neurology",
+        "image": "https://images.unsplash.com/photo-1559757175-013fe5899ef8?q=80&w=800",
+        "icon": "Brain",
+        "category": "Brain Care",
+        "description": "Diagnosis and management of brain, spinal cord, and peripheral nervous system disorders."
+    },
+    {
+        "id": "spec-021",
+        "title": "Neurosurgery",
+        "slug": "neurosurgery",
+        "image": "https://images.unsplash.com/photo-1512678080530-7760d81faba6?q=80&w=800",
+        "icon": "BrainCircuit",
+        "category": "Brain Surgery",
+        "description": "Highly complex surgical interventions for the brain and spine."
+    },
+    {
+        "id": "spec-022",
+        "title": "Obstetrics And Gynaecology",
+        "slug": "obstetrics-gynaecology",
+        "image": "https://images.unsplash.com/photo-1527613426441-4da17471b66d?q=80&w=800",
+        "icon": "Baby",
+        "category": "Womens Health",
+        "description": "Complete care for women, including prenatal care, delivery, and gynecological surgeries."
+    },
+    {
+        "id": "spec-023",
+        "title": "Ophthalmology",
+        "slug": "ophthalmology",
+        "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=800",
+        "icon": "Eye",
+        "category": "Eye Care",
+        "description": "Comprehensive eye care including vision correction and advanced eye surgeries."
+    },
+    {
+        "id": "spec-024",
+        "title": "Orthopaedics & Joint Replacement",
+        "slug": "orthopaedics-joint-replacement",
+        "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=800",
+        "icon": "Bone",
+        "category": "Bone & Joint",
+        "description": "Bone and joint care including robotic-assisted replacements and trauma surgery."
+    },
+    {
+        "id": "spec-025",
+        "title": "Paediatrics",
+        "slug": "paediatrics",
+        "image": "https://images.unsplash.com/photo-1502740479091-635887520276?q=80&w=800",
+        "icon": "Baby",
+        "category": "Child Care",
+        "description": "Dedicated healthcare services for infants, children, and adolescents."
+    },
+    {
+        "id": "spec-026",
+        "title": "Radiology & Imaging",
+        "slug": "radiology-imaging",
+        "image": "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?q=80&w=800",
+        "icon": "Scan",
+        "category": "Diagnostics",
+        "description": "Advanced imaging services including MRI, CT scan, and X-ray for accurate diagnosis."
+    },
+    {
+        "id": "spec-027",
+        "title": "Urology",
+        "slug": "urology",
+        "image": "https://images.unsplash.com/photo-1576091160550-2173dad99902?q=80&w=800",
+        "icon": "Wind",
+        "category": "Urinary Health",
+        "description": "Expert care for the urinary tract system and male reproductive organs."
+    }
+]

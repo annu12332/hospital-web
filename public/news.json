@@ -1,0 +1,112 @@
+[
+    {
+        "id": "news-001",
+        "title": "Prof. Dr. Md. Moklesur Rahman Joins Evercare Hospital Chattogram",
+        "date": "25 November 2025",
+        "category": "News & Media",
+        "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=800",
+        "excerpt": "Evercare Hospital Chattogram proudly announces the appointment of Prof. Dr. Md. Moklesur Rahman as Senior Consultant, General & Laparoscopic Surgery.",
+        "content": "Prof. Dr. Md. Moklesur Rahman completed his MBBS from Chittagong Medical College in 1990 and later pursued his MS in General Surgery. He has more than three decades of clinical, academic, and research experience.",
+        "specialty": "General & Laparoscopic Surgery",
+        "doctorName": "Prof. Dr. Md. Moklesur Rahman"
+    },
+    {
+        "id": "news-002",
+        "title": "Evercare Hospital Chattogram Introduces Advanced Cardiac Care",
+        "date": "10 December 2025",
+        "category": "Medical Tech",
+        "image": "https://images.unsplash.com/photo-1513224502586-d1e602410265?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2FyZGlhY3xlbnwwfHwwfHx8MA%3D%3D",
+        "excerpt": "A new milestone in healthcare with the launch of state-of-the-art cardiac facilities.",
+        "content": "The hospital has upgraded its Cath Lab and surgical units to provide 24/7 emergency cardiac support for patients in the Chattogram division."
+    },
+    {
+        "id": "news-003",
+        "title": "Success Story: Complex Laparoscopic Surgery Performed",
+        "date": "05 January 2026",
+        "category": "Patient Success",
+        "image": "https://plus.unsplash.com/premium_photo-1664304348972-8deac29e27c8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGFwYXJvc2NvcGljJTIwc3VyZ2VyeXxlbnwwfHwwfHx8MA%3D%3D",
+        "excerpt": "Our surgical team successfully performed a minimally invasive procedure on a high-risk patient.",
+        "content": "Led by senior consultants, the procedure ensured faster recovery and minimal scarring for the patient."
+    },
+    {
+        "id": "news-004",
+        "title": "World Health Day Seminar at Evercare Chattogram",
+        "date": "07 April 2026",
+        "category": "Events",
+        "image": "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?q=80&w=800",
+        "excerpt": "Raising awareness about preventive healthcare through an interactive session with experts.",
+        "content": "Doctors and community leaders gathered to discuss the importance of regular health check-ups and healthy lifestyle choices."
+    },
+    {
+        "id": "news-005",
+        "title": "New Pediatric Wing Inaugurated",
+        "date": "15 May 2026",
+        "category": "Expansion",
+        "image": "https://images.unsplash.com/photo-1502740479091-635887520276?q=80&w=800",
+        "excerpt": "Enhancing child healthcare services with specialized pediatric ICU and neonatal care.",
+        "content": "The new wing is equipped with child-friendly environments and highly trained nursing staff for better recovery."
+    },
+    {
+        "id": "news-006",
+        "title": "Evercare Receives International Excellence Award",
+        "date": "20 June 2026",
+        "category": "Awards",
+        "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?q=80&w=800",
+        "excerpt": "Recognized for clinical leadership and commitment to world-class healthcare standards.",
+        "content": "This award reflects our dedication to patient safety and compassionate care in the region."
+    },
+    {
+        "id": "news-007",
+        "title": "Free Health Screening Camp for Senior Citizens",
+        "date": "12 July 2026",
+        "category": "CSR",
+        "image": "https://images.unsplash.com/photo-1630331652145-69c771fbc82e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aGVhbHRoJTIwc2NyZWVuaW5nfGVufDB8fDB8fHww",
+        "excerpt": "Providing free consultations and basic tests for elderly residents of Chattogram.",
+        "content": "Over 500 seniors benefited from the camp, receiving specialized advice from geriatric experts."
+    },
+    {
+        "id": "news-008",
+        "title": "Advanced Orthopedic Joint Replacement Center Opens",
+        "date": "02 August 2026",
+        "category": "News & Media",
+        "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=800",
+        "excerpt": "Offering robotic-assisted surgeries for hip and knee replacements.",
+        "content": "Our new center aims to reduce post-operative pain and improve mobility for patients with chronic joint issues."
+    },
+    {
+        "id": "news-009",
+        "title": "Workshop on Modern Oncology Practices",
+        "date": "18 September 2026",
+        "category": "Medical Tech",
+        "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=800",
+        "excerpt": "Global experts share insights on the latest advancements in cancer treatment.",
+        "content": "The workshop focused on personalized medicine and targeted therapy for various types of cancer."
+    },
+    {
+        "id": "news-010",
+        "title": "Evercare Chattogram Marks 5th Anniversary",
+        "date": "30 October 2026",
+        "category": "Events",
+        "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?q=80&w=800",
+        "excerpt": "Celebrating five years of excellence in healthcare services in the port city.",
+        "content": "The celebration included staff awards, patient testimonials, and a commitment to future expansions."
+    },
+    {
+        "id": "news-011",
+        "title": "Diet & Nutrition: Public Awareness Program",
+        "date": "10 November 2026",
+        "category": "Education",
+        "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=800",
+        "excerpt": "Expert dietitians share tips on managing chronic diseases through food.",
+        "content": "Focusing on diabetic and hypertensive patients, this session helped many understand nutritional balance."
+    },
+    {
+        "id": "news-012",
+        "title": "State-of-the-Art Radiology Department Upgrade",
+        "date": "15 December 2026",
+        "category": "Medical Tech",
+        "image": "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?q=80&w=800",
+        "excerpt": "Installing the latest MRI and CT scan machines for faster and more accurate diagnosis.",
+        "content": "The new equipment reduces radiation exposure and provides high-resolution imaging for clinical precision."
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "id": "doc-001",
+        "name": "Prof. Dr. AQM Mohiuddin",
+        "speciality": "Cardiology",
+        "degree": "MBBS, FCPS, MD (Cardiology)",
+        "position": "Senior Consultant",
+        "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d",
+        "availability": "Sat - Thu (9AM - 5PM)",
+        "about": "Prof. Dr. Mohiuddin is a pioneer in interventional cardiology with over 25 years of experience in performing complex angioplasties.",
+        "experience": "25+ Years",
+        "patient_count": "15,000+",
+        "success_rate": "98%",
+        "education": [
+            "MBBS - Dhaka Medical College",
+            "FCPS - BCPS",
+            "Fellowship in Interventional Cardiology - Singapore"
+        ],
+        "consultation_fee": "1500 BDT"
+    },
+    {
+        "id": "doc-002",
+        "name": "Dr. Sarah Islam",
+        "speciality": "Neurology",
+        "degree": "MBBS, MD (Neurology), PhD",
+        "position": "Consultant",
+        "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f",
+        "availability": "Sun - Thu (10AM - 6PM)",
+        "about": "Dr. Sarah specializes in neurodegenerative disorders and has published numerous research papers on stroke management.",
+        "experience": "12+ Years",
+        "patient_count": "8,000+",
+        "success_rate": "95%",
+        "education": [
+            "MBBS - Sir Salimullah Medical College",
+            "MD - BSMMU",
+            "PhD in Neuroscience - UK"
+        ],
+        "consultation_fee": "1200 BDT"
+    },
+    {
+        "id": "doc-003",
+        "name": "Dr. Ahmed Sharif",
+        "speciality": "Orthopaedics",
+        "degree": "MBBS, MS (Ortho)",
+        "position": "Senior Consultant",
+        "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d",
+        "availability": "Mon - Fri (9AM - 4PM)",
+        "about": "A specialist in joint replacements and trauma surgery, Dr. Ahmed has a track record of successful robotic-assisted surgeries.",
+        "experience": "18+ Years",
+        "patient_count": "10,000+",
+        "success_rate": "97%",
+        "education": [
+            "MBBS - Chittagong Medical College",
+            "MS (Orthopaedics)",
+            "Fellowship in Joint Replacement - India"
+        ],
+        "consultation_fee": "1000 BDT"
+    },
+    {
+        "id": "doc-004",
+        "name": "Dr. Nusrat Jahan",
+        "speciality": "Gastroenterology",
+        "degree": "MBBS, FCPS",
+        "position": "Consultant",
+        "image": "https://images.unsplash.com/photo-1559839734-2b71f1536783",
+        "availability": "Sat - Wed (11AM - 7PM)",
+        "about": "Expert in therapeutic endoscopy and liver disease management with a focus on patient-centric care.",
+        "experience": "10+ Years",
+        "patient_count": "6,500+",
+        "success_rate": "96%",
+        "education": [
+            "MBBS - Rajshahi Medical College",
+            "FCPS (Medicine)",
+            "Training in Advanced Endoscopy - Thailand"
+        ],
+        "consultation_fee": "1000 BDT"
+    },
+    {
+        "id": "doc-005",
+        "name": "Dr. Tanvir Rahman",
+        "speciality": "Internal Medicine",
+        "degree": "MBBS, MRCP (UK), FCPS",
+        "position": "Senior Consultant",
+        "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7",
+        "availability": "Daily (9AM - 2PM)",
+        "about": "A specialist in multi-system diseases and critical care management with extensive experience in the UK.",
+        "experience": "20+ Years",
+        "patient_count": "12,000+",
+        "success_rate": "94%",
+        "education": [
+            "MBBS - DMC",
+            "MRCP - Royal College of Physicians, UK",
+            "FCPS - BCPS"
+        ],
+        "consultation_fee": "2000 BDT"
+    },
+    {
+        "id": "doc-006",
+        "name": "Dr. Mahjabin Chowdhury",
+        "speciality": "Obstetrics & Gynaecology",
+        "degree": "MBBS, DGO, MCPS",
+        "position": "Consultant",
+        "image": "https://images.unsplash.com/photo-1623854767233-243639944379",
+        "availability": "Sat, Mon, Wed (4PM - 8PM)",
+        "about": "Specialist in high-risk pregnancy and laparoscopic gynaecological surgeries.",
+        "experience": "15+ Years",
+        "patient_count": "9,000+",
+        "success_rate": "99%",
+        "education": [
+            "MBBS - Mymensingh Medical College",
+            "DGO - BSMMU",
+            "Fellowship in Infertility - India"
+        ],
+        "consultation_fee": "1200 BDT"
+    },
+    {
+        "id": "doc-007",
+        "name": "Dr. Kaiser Hamid",
+        "speciality": "Urology",
+        "degree": "MBBS, MS (Urology)",
+        "position": "Consultant",
+        "image": "https://images.unsplash.com/photo-1612531388300-973438a44872",
+        "availability": "Sun - Thu (5PM - 9PM)",
+        "about": "Expert in kidney stone management via laser surgery and prostate related issues.",
+        "experience": "11+ Years",
+        "patient_count": "5,000+",
+        "success_rate": "97%",
+        "education": [
+            "MBBS - DMC",
+            "MS (Urology) - BSMMU"
+        ],
+        "consultation_fee": "1000 BDT"
+    },
+    {
+        "id": "doc-008",
+        "name": "Dr. S. M. Ali Khan",
+        "speciality": "Dermatology",
+        "degree": "MBBS, DDV, FCPS",
+        "position": "Consultant",
+        "image": "https://images.unsplash.com/photo-1582750433449-648ed127bb54",
+        "availability": "Mon - Wed (10AM - 1PM)",
+        "about": "Specialized in aesthetic dermatology, laser treatments, and chronic skin disease management.",
+        "experience": "14+ Years",
+        "patient_count": "7,500+",
+        "success_rate": "93%",
+        "education": [
+            "MBBS - CMC",
+            "DDV - Austria",
+            "FCPS - BCPS"
+        ],
+        "consultation_fee": "1500 BDT"
+    },
+    {
+        "id": "doc-009",
+        "name": "Dr. Rehana Parveen",
+        "speciality": "Paediatrics",
+        "degree": "MBBS, FCPS, MD",
+        "position": "Senior Consultant",
+        "image": "https://images.unsplash.com/photo-1559839734-2b71f1536783",
+        "availability": "Daily (10AM - 5PM)",
+        "about": "Compassionate paediatrician specializing in neonatology and child nutrition.",
+        "experience": "22+ Years",
+        "patient_count": "18,000+",
+        "success_rate": "98%",
+        "education": [
+            "MBBS - SSMC",
+            "FCPS (Paediatrics)",
+            "MD in Child Health"
+        ],
+        "consultation_fee": "1200 BDT"
+    },
+    {
+        "id": "doc-010",
+        "name": "Dr. Zulfiqar Haider",
+        "speciality": "Neurosurgery",
+        "degree": "MBBS, MS (Neurosurgery)",
+        "position": "Senior Consultant",
+        "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d",
+        "availability": "Sat - Thu (9AM - 3PM)",
+        "about": "Highly skilled in brain tumor surgeries and minimally invasive spine surgeries.",
+        "experience": "19+ Years",
+        "patient_count": "4,200+",
+        "success_rate": "92%",
+        "education": [
+            "MBBS - DMC",
+            "MS (Neurosurgery) - BSMMU",
+            "Fellowship in Spine Surgery - Germany"
+        ],
+        "consultation_fee": "2500 BDT"
+    }
+]

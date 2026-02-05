@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "title": "Evercare Pre Ramadan Health Check",
+        "image": "https://media.istockphoto.com/id/1305026622/photo/ramadan-kareem-lantern-and-dates-fruit-with-city-light-background.jpg?s=612x612&w=0&k=20&c=lhfwznUVfslOZoY06stNxKkn9Ttl_jAQhpWII_QlJAc=",
+        "price": "4,500 BDT",
+        "category": "Seasonal",
+        "description": "Specially designed for individuals planning to fast, ensuring metabolic stability.",
+        "full_details": {
+            "Haematology": [
+                "Complete Blood Count (CBC)",
+                "ESR"
+            ],
+            "Diabetes_Screening": [
+                "Glucose Fasting",
+                "HbA1c (Average Glucose)"
+            ],
+            "Kidney_Function": [
+                "Serum Creatinine",
+                "Urine R/M/E"
+            ],
+            "Liver_Function": [
+                "SGPT (ALT)"
+            ],
+            "Lipid_Profile": [
+                "Total Cholesterol",
+                "Triglycerides"
+            ],
+            "Consultation": [
+                "General Physician Consultation",
+                "Dietary Advice for Fasting"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "title": "EVERCARE WHOLE BODY CHECK (FOR MEN)",
+        "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&q=80&w=400",
+        "price": "14,500 BDT",
+        "category": "Full Body",
+        "description": "Comprehensive screening for men covering vital organs and cardiac health.",
+        "full_details": {
+            "Cardiac_Screening": [
+                "ECG (12 Lead)",
+                "Echocardiogram (Color Doppler)",
+                "TMT"
+            ],
+            "Imaging_Studies": [
+                "Chest X-Ray (Digital)",
+                "USG of Whole Abdomen & Prostate"
+            ],
+            "Laboratory_Tests": [
+                "PSA (Prostate Cancer Marker)",
+                "S. Uric Acid",
+                "Thyroid Profile (TSH)",
+                "Lipid Profile (Full)"
+            ],
+            "Liver_&_Kidney": [
+                "SGPT",
+                "SGOT",
+                "Serum Creatinine",
+                "Blood Urea"
+            ],
+            "Infections": [
+                "HBsAg (Hepatitis B)",
+                "Urine Analysis"
+            ],
+            "Consultation": [
+                "Senior Consultant Physical Medicine",
+                "Cardiology Consultation"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "title": "EVERCARE WHOLE BODY CHECK (FOR WOMEN)",
+        "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&q=80&w=400",
+        "price": "15,500 BDT",
+        "category": "Full Body",
+        "description": "Tailored for women with a focus on hormonal health and cancer screening.",
+        "full_details": {
+            "Specialized_Screening": [
+                "Mammography (Both Breasts)",
+                "USG of Whole Abdomen & Pelvis",
+                "Pap Smear (Cervical Cancer)"
+            ],
+            "Bone_&_Vitamins": [
+                "Vitamin D (25-OH)",
+                "Serum Calcium",
+                "Vitamin B12"
+            ],
+            "Thyroid_Function": [
+                "FT4",
+                "TSH"
+            ],
+            "Haematology": [
+                "Hemoglobin",
+                "CBC with ESR",
+                "Iron Profile"
+            ],
+            "Metabolic_Panel": [
+                "FBS",
+                "Lipid Profile",
+                "Liver Function Test"
+            ],
+            "Consultation": [
+                "Senior Gynecologist Consultation",
+                "Internal Medicine Review"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "title": "EVERCARE PLATINUM WHOLE BODY CHECKUP (MALE)",
+        "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=400",
+        "price": "28,500 BDT",
+        "category": "Platinum",
+        "description": "The most advanced screening for male executives with cancer markers.",
+        "full_details": {
+            "Advanced_Imaging": [
+                "Whole Body MRI (Selected Segments)",
+                "CT Scan Chest (Low Dose)",
+                "USG Doppler of Carotid"
+            ],
+            "Cancer_Markers": [
+                "PSA (Prostate)",
+                "CEA (Colon)",
+                "AFP (Liver)"
+            ],
+            "Cardiac_Advanced": [
+                "TMT (Stress Test)",
+                "Echo Doppler",
+                "Lipoprotein (a)"
+            ],
+            "Gastro_Check": [
+                "Stool for Occult Blood",
+                "H. Pylori Test"
+            ],
+            "Minerals_&_Hormones": [
+                "Testosterone Level",
+                "Electrolytes",
+                "HbA1c"
+            ],
+            "Consultation": [
+                "Executive Health Screening Review",
+                "Dietary Plan",
+                "Eye Exam"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "title": "EVERCARE PLATINUM WHOLE BODY CHECKUP (FEMALE)",
+        "image": "https://media.istockphoto.com/id/872676342/photo/medical-technology-concept-electronic-medical-record.jpg?s=612x612&w=0&k=20&c=N6u0QrzoZAv5xDh0-WdEJbbJ61sPgATGzLpD19TIl9k=",
+        "price": "29,500 BDT",
+        "category": "Platinum",
+        "description": "Elite health screening for women including bone density and hormone panels.",
+        "full_details": {
+            "Oncology_Screening": [
+                "Digital Mammography",
+                "Pap Smear (LBC)",
+                "CA-125 (Ovarian Marker)"
+            ],
+            "Bone_Health": [
+                "DEXA Scan (Bone Mineral Density)",
+                "Vitamin D",
+                "Phosphorus"
+            ],
+            "Hormonal_Panel": [
+                "FSH",
+                "LH",
+                "Prolactin",
+                "Thyroid Full Profile"
+            ],
+            "Imaging": [
+                "USG Whole Abdomen",
+                "Chest X-Ray Digital",
+                "USG Breast"
+            ],
+            "Lab_Work": [
+                "Anemia Profile",
+                "Lipid Profile",
+                "Kidney Panel"
+            ],
+            "Consultation": [
+                "Senior Gynecologist Consultation",
+                "Nutritionist Advice"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "title": "EVERCARE SPECIAL HEART CHECK PACKAGE",
+        "image": "https://media.istockphoto.com/id/2171125786/photo/human-heart-on-ecg-background-3d-illustration.jpg?s=612x612&w=0&k=20&c=PZapfRzXsAUfOZbJmFQZ7wRWHVVQKLkcZ_q2ARiz2q0=",
+        "price": "9,500 BDT",
+        "category": "Cardiac",
+        "description": "In-depth cardiac evaluation for early detection of heart diseases.",
+        "full_details": {
+            "Cardiac_Diagnostic": [
+                "ECG",
+                "Echocardiogram (Color)",
+                "TMT (Treadmill Test)"
+            ],
+            "Bio_Markers": [
+                "Troponin I",
+                "CK-MB",
+                "NT-proBNP (Optional)"
+            ],
+            "Risk_Factor_Analysis": [
+                "Lipid Profile (Full)",
+                "Homocysteine",
+                "HbA1c"
+            ],
+            "General_Lab": [
+                "Serum Creatinine",
+                "CBC"
+            ],
+            "Consultation": [
+                "Consultant Cardiologist Evaluation",
+                "Stress Management Advice"
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "title": "EVERCARE FESTIVE GOLD PACKAGE",
+        "image": "https://media.istockphoto.com/id/2243008119/photo/stethoscpe-and-red-magnetic-heartshape-on-chalkboard.jpg?s=612x612&w=0&k=20&c=gVcWVTFqQnFX8vcgDyzQ5940gIMO4zwky125Kg6Rg5o=",
+        "price": "11,000 BDT",
+        "category": "Festive",
+        "description": "A premium festive gift of health for your loved ones.",
+        "full_details": {
+            "Essential_Lab": [
+                "CBC",
+                "Blood Grouping & Rh",
+                "Urine R/M/E"
+            ],
+            "Organ_Screen": [
+                "Liver Function (SGPT)",
+                "Kidney (Creatinine)",
+                "Uric Acid"
+            ],
+            "Metabolic": [
+                "FBS",
+                "HbA1c",
+                "Lipid Profile (Total)"
+            ],
+            "Imaging": [
+                "USG Whole Abdomen",
+                "Chest X-Ray"
+            ],
+            "Consultation": [
+                "General Medicine Consultation"
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "title": "EVERCARE FESTIVE SILVER PACKAGE",
+        "image": "https://media.istockphoto.com/id/2248049520/photo/a-female-doctor-in-a-blue-medical-suit-is-holding-a-stethoscope-in-her-hand-the-concept-of.jpg?s=612x612&w=0&k=20&c=IyfIHoT49v9bXLWtfKjhSylrorpZum4B04up-HiE8rc=",
+        "price": "7,500 BDT",
+        "category": "Festive",
+        "description": "Affordable and essential health checkup for primary screening.",
+        "full_details": {
+            "Lab_Primary": [
+                "CBC with ESR",
+                "Blood Grouping",
+                "Random Blood Sugar"
+            ],
+            "Organ_Primary": [
+                "Serum Creatinine",
+                "SGPT"
+            ],
+            "Imaging_Primary": [
+                "X-Ray Chest",
+                "ECG"
+            ],
+            "Consultation": [
+                "Medical Officer Consultation"
+            ]
+        }
+    }
+]
