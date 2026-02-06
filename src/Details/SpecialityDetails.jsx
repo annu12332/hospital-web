@@ -133,7 +133,7 @@ const SpecialityDetails = () => {
                                     <span className="flex items-center gap-3"><Phone size={18} /> Emergency 10663</span>
                                     <ArrowLeft size={16} className="rotate-180 opacity-0 group-hover:opacity-100 transition-all" />
                                 </a>
-                                <Link to="/appointment" className="flex items-center justify-center gap-3 w-full border border-white/20 text-white p-5 rounded-2xl font-black uppercase tracking-widest text-[16px] hover:bg-white/10 transition-all active:scale-95">
+                                <Link to="/apointment" className="flex items-center justify-center gap-3 w-full border border-white/20 text-white p-5 rounded-2xl font-black uppercase tracking-widest text-[16px] hover:bg-white/10 transition-all active:scale-95">
                                     <Calendar size={18} /> Book Appointment
                                 </Link>
                             </div>

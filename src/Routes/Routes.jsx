@@ -14,6 +14,8 @@ import Doctors from '../pages/Doctors';
 import DoctorDetails from '../Details/DoctorDetails';
 import AppointmentPage from '../pages/ApointmentPage';
 import AboutUs from '../pages/AboutUs';
+import TeleConsult from '../pages/TeleConsult';
+import PackageBookingForm from '../forms/PackageBookingForm';
 
 const AppRoutes = () => {
     return (
@@ -33,6 +35,9 @@ const AppRoutes = () => {
             <Route path="/doctors" element={<Doctors />} />
             <Route path="/apointment" element={<AppointmentPage />} />
             <Route path="/about" element={<AboutUs />} />
+            <Route path="/consult" element={<TeleConsult />} />
+            <Route path="/book-package/:packageId" element={<PackageBookingForm />} />
+
 
 
 

@@ -28,8 +28,8 @@ const HeroSection = () => {
     const actionCards = [
         { title: "Find Doctor", icon: <User size={20} />, path: "/doctors" },
         { title: "Appointment", icon: <Calendar size={20} /> , path: "/apointment"},
-        { title: "Reports", icon: <FileText size={20} /> },
-        { title: "Tele-Consult", icon: <Headphones size={20} /> },
+        { title: "Reports", icon: <FileText size={20} />, },
+        { title: "Tele-Consult", icon: <Headphones size={20} />,path: "/consult" },
         { title: "Guide", icon: <Map size={20} /> },
     ];
 
@@ -85,9 +85,9 @@ const HeroSection = () => {
                                     >
                                         {slides[currentSlide].subtitle}
                                     </motion.p>
-                                    <button className="bg-[#4FC3F7] text-[#002B49] px-6 py-3 rounded-xl font-bold text-xs uppercase hover:bg-white transition-all shadow-lg flex items-center gap-2">
+                                    <Link to ="/about"><button className="bg-[#4FC3F7] text-[#002B49] px-6 py-3 rounded-xl font-bold text-xs uppercase hover:bg-white transition-all shadow-lg flex items-center gap-2">
                                         Learn More <ArrowRight size={16} />
-                                    </button>
+                                    </button></Link>
                                 </div>
                             </div>
                         </motion.div>
@@ -106,18 +106,20 @@ const HeroSection = () => {
                 </div>
             </div>
 
-            {/* --- QUICK ACTION CARDS --- */}
-            <div className="max-w-6xl mx-auto px-6 -mt-10 relative z-40">
+         {/* --- QUICK ACTION CARDS --- */}
+<div className="max-w-6xl mx-auto px-6 -mt-10 relative z-40">
     <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3 md:gap-4">
         {actionCards.map((card, index) => (
             <Link 
                 key={index} 
                 to={card.path} 
-                className="block"
+                className={`block ${
+                    index === actionCards.length - 1 ? 'col-span-2 sm:col-span-1' : ''
+                }`}
             >
                 <motion.div
                     whileHover={{ y: -5 }}
-                    className="bg-white hover:bg-[#002B49] group border border-gray-100 p-4 rounded-2xl shadow-sm flex flex-col items-center justify-center text-center cursor-pointer transition-all duration-300"
+                    className="bg-white hover:bg-[#002B49] group border border-gray-100 p-4 rounded-2xl shadow-sm flex flex-col items-center justify-center text-center cursor-pointer transition-all duration-300 h-full"
                 >
                     <div className="w-10 h-10 bg-blue-50 group-hover:bg-white/10 rounded-full flex items-center justify-center mb-2 text-[#002B49] group-hover:text-[#4FC3F7] transition-colors">
                         {card.icon}

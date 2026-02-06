@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Heart, Award, ShieldCheck, ArrowRight, Sparkles } from 'lucide-react';
+import { Link } from 'react-router';
 
 const AboutUs = () => {
     const stats = [
@@ -133,12 +134,12 @@ const AboutUs = () => {
                     <div className="relative z-10">
                         <h2 className="text-2xl md:text-4xl font-black text-white mb-8 tracking-tighter">Ready to experience <br/> world-class care?</h2>
                         <div className="flex flex-wrap gap-4 justify-center">
-                            <button className="bg-white text-[#002B49] px-8 py-3 rounded-xl text-[10px] font-black uppercase tracking-widest hover:bg-blue-50 transition-all">
+                            <Link to ="/apointment"><button className="bg-white text-[#002B49] px-8 py-3 rounded-xl text-[10px] font-black uppercase tracking-widest hover:bg-blue-50 transition-all">
                                 Book Appointment
-                            </button>
-                            <button className="border border-white/20 text-white px-8 py-3 rounded-xl text-[10px] font-black uppercase tracking-widest hover:bg-white/10 transition-all">
+                            </button></Link>
+                            <Link to ="/doctors"><button className="border border-white/20 text-white px-8 py-3 rounded-xl text-[10px] font-black uppercase tracking-widest hover:bg-white/10 transition-all">
                                 View Teams
-                            </button>
+                            </button></Link>
                         </div>
                     </div>
                 </div>

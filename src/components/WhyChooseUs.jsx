@@ -76,7 +76,7 @@ const WhyChooseUs = () => {
 
     return (
         <section className="py-24 px-6 md:px-12 lg:px-20 bg-[#f8fbff] flex justify-center overflow-hidden">
-            {/* Main Container - Controlled Width for better spacing */}
+            {/* Main Container  */}
             <div className="max-w-6xl w-full">
                 
                 {/* Header Section */}
@@ -102,7 +102,7 @@ const WhyChooseUs = () => {
                 </div>
 
                 <div className="flex flex-col lg:flex-row gap-8">
-                    {/* Left Side: Professional Branding */}
+                    {/* Left Side */}
                     <div className="lg:w-1/3">
                         <div className="relative h-full min-h-[400px] rounded-[2.5rem] overflow-hidden group shadow-xl">
                             <img
@@ -129,11 +129,11 @@ const WhyChooseUs = () => {
                             <h3 className="text-xl font-bold text-[#002B49]">Specialized Services</h3>
                             <div className="flex gap-2">
                                 <button onClick={prevSlide} disabled={startIndex === 0}
-                                    className="p-2.5 rounded-full border border-gray-100 bg-gray-50 hover:bg-blue-600 hover:text-white transition-all disabled:opacity-20">
+                                    className="p-2.5 rounded-full border border-gray-100 bg-[#002B49] hover:bg-blue-600 hover:text-white transition-all disabled:opacity-20">
                                     <ChevronLeft size={18} />
                                 </button>
                                 <button onClick={nextSlide} disabled={startIndex + itemsPerPage >= specialityCards.length}
-                                    className="p-2.5 rounded-full border border-gray-100 bg-gray-50 hover:bg-blue-600 hover:text-white transition-all disabled:opacity-20">
+                                    className="p-2.5 rounded-full border border-gray-100 bg-[#002B49] hover:bg-blue-600 hover:text-white transition-all disabled:opacity-20">
                                     <ChevronRight size={18} />
                                 </button>
                             </div>

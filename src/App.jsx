@@ -20,10 +20,14 @@ import Doctors from './pages/Doctors'
 import DoctorDetails from './Details/DoctorDetails'
 import AppointmentPage from './pages/ApointmentPage'
 import AboutUs from './pages/AboutUs'
+import ScrollToTop from './components/ScrollToTop'
+import TeleConsult from './pages/TeleConsult'
+import PackageBookingForm from './forms/PackageBookingForm'
 
 function App() {
   return (
     <>
+      <ScrollToTop />
       <Navbar />
       <Routes>
         <Route path="/" element={
@@ -52,6 +56,9 @@ function App() {
         <Route path="/doctor/:id" element={<DoctorDetails />} />
         <Route path="/apointment" element={<AppointmentPage />} />
         <Route path="/about" element={<AboutUs />} />
+        <Route path="/consult" element={<TeleConsult />} />
+        <Route path="/book-package/:packageId" element={<PackageBookingForm />} />
+
 
 
       </Routes>
