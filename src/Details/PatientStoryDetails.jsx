@@ -10,12 +10,12 @@ const PatientStoryDetails = () => {
     useEffect(() => {
         const fetchStoryData = async () => {
             try {
-                const response = await fetch('/public/story.json');
+                const response = await fetch('/story.json');
                 if (!response.ok) throw new Error('Data fetch failed');
                 const data = await response.json();
 
-
-                const foundStory = data.find(item => String(item.id) === String(id));
+                const cleanId = String(id).split('/')[0].trim();
+                const foundStory = data.find(item => String(item.id).trim() === cleanId);
 
                 setStory(foundStory);
             } catch (error) {
@@ -52,12 +52,10 @@ const PatientStoryDetails = () => {
     return (
         <main className="min-h-screen bg-white pt-24 pb-12">
             <div className="max-w-4xl mx-auto px-4 md:px-0">
-                {/* Breadcrumb */}
                 <Link to="/" className="inline-flex items-center gap-2 text-gray-500 hover:text-[#4FC3F7] font-bold text-sm mb-8 transition-colors">
                     <ChevronLeft size={20} /> Back to Stories
                 </Link>
 
-                {/* Content */}
                 <span className="bg-[#4FC3F7]/10 text-[#002B49] text-[10px] font-black px-4 py-1.5 rounded-full uppercase tracking-widest mb-4 inline-block">
                     {story.speciality}
                 </span>
@@ -66,18 +64,15 @@ const PatientStoryDetails = () => {
                     {story.title}
                 </h1>
 
-                {/* Meta */}
                 <div className="flex flex-wrap items-center gap-6 text-sm text-gray-400 font-bold mb-10 border-b border-gray-100 pb-8 uppercase tracking-widest">
                     <span className="flex items-center gap-2"><Calendar size={18} className="text-[#4FC3F7]" /> {story.published_date}</span>
                     <span className="flex items-center gap-2"><MapPin size={18} className="text-[#4FC3F7]" /> {story.city}</span>
                 </div>
 
-                {/* Main Image */}
                 <div className="rounded-3xl overflow-hidden shadow-2xl mb-12">
                     <img src={story.image} alt={story.title} className="w-full h-auto object-cover" />
                 </div>
 
-                {/* Consultant Info */}
                 <div className="bg-[#002B49] p-8 rounded-2xl text-white mb-12 flex items-center gap-6">
                     <div className="w-16 h-16 bg-[#4FC3F7] rounded-full flex items-center justify-center">
                         <User size={32} className="text-[#002B49]" />
@@ -89,12 +84,10 @@ const PatientStoryDetails = () => {
                     </div>
                 </div>
 
-                {/* Story Body */}
                 <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed">
                     <p className="text-xl font-medium text-[#002B49] mb-6">
                         {story.content}
                     </p>
-
                 </div>
             </div>
         </main>
