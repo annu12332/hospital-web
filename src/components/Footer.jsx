@@ -60,20 +60,20 @@ const Footer = () => {
                 <div className="mt-10">
                     <div className="flex flex-wrap justify-center gap-x-6 gap-y-3 text-[11px] font-bold uppercase tracking-wide text-gray-300">
                         <Link to="/doctors" className="hover:text-[#4FC3F7]">Find a Doctor</Link>
-                        <Link to="/appointment" className="hover:text-[#4FC3F7]">Request an Appointment</Link>
+                        <Link to="/apointment" className="hover:text-[#4FC3F7]">Request an Appointment</Link>
                         <Link to="/reports" className="hover:text-[#4FC3F7]">Online Report</Link>
                         <Link to="/career" className="hover:text-[#4FC3F7]">Career</Link>
                         <Link to="/contact" className="hover:text-[#4FC3F7]">Contact Us</Link>
-                        <Link to="/speciality" className="hover:text-[#4FC3F7]">Speciality</Link>
-                        <Link to="/health-package" className="hover:text-[#4FC3F7]">Health Package</Link>
+                        <Link to="/all-spec" className="hover:text-[#4FC3F7]">Speciality</Link>
+                        <Link to="/health-check" className="hover:text-[#4FC3F7]">Health Package</Link>
                         <Link to="/news" className="hover:text-[#4FC3F7]">News & Media</Link>
                         <Link to="/blogs" className="hover:text-[#4FC3F7]">Blogs</Link>
                         <Link to="/about" className="hover:text-[#4FC3F7]">About Us</Link>
                     </div>
                     
                     <div className="flex flex-wrap justify-center gap-x-6 gap-y-3 text-[11px] font-bold uppercase tracking-wide text-gray-300 mt-4 border-t border-gray-800 pt-4">
-                        <Link to="/stories" className="hover:text-[#4FC3F7]">Patient Stories</Link>
-                        <Link to="/tele-online" className="hover:text-[#4FC3F7]">Tele Online</Link>
+                        <Link to="/all-story" className="hover:text-[#4FC3F7]">Patient Stories</Link>
+                        <Link to="/consult" className="hover:text-[#4FC3F7]">Tele Online</Link>
                         <Link to="/privacy-policy" className="hover:text-[#4FC3F7]">Privacy Policy</Link>
                         <Link to="/guide" className="hover:text-[#4FC3F7]">Patient & Visitor Guide</Link>
                     </div>

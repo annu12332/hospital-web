@@ -16,6 +16,7 @@ import AppointmentPage from '../pages/ApointmentPage';
 import AboutUs from '../pages/AboutUs';
 import TeleConsult from '../pages/TeleConsult';
 import PackageBookingForm from '../forms/PackageBookingForm';
+import OnlineReportPage from '../pages/OnlinReport';
 
 const AppRoutes = () => {
     return (
@@ -36,6 +37,8 @@ const AppRoutes = () => {
             <Route path="/apointment" element={<AppointmentPage />} />
             <Route path="/about" element={<AboutUs />} />
             <Route path="/consult" element={<TeleConsult />} />
+            <Route path="/report" element={<OnlineReportPage />} />
+
             <Route path="/book-package/:packageId" element={<PackageBookingForm />} />
 
 

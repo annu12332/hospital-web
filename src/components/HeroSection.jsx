@@ -27,7 +27,7 @@ const HeroSection = () => {
     const actionCards = [
         { title: "Find Doctor", icon: <User size={20} />, path: "/doctors" },
         { title: "Appointment", icon: <Calendar size={20} />, path: "/apointment" },
-        { title: "Reports", icon: <FileText size={20} />, path: "#" },
+        { title: "Reports", icon: <FileText size={20} />, path: "/report" },
         { title: "Tele-Consult", icon: <Headphones size={20} />, path: "/consult" },
         { title: "Guide", icon: <Map size={20} />, path: "#" },
     ];
@@ -44,7 +44,7 @@ const HeroSection = () => {
     return (
         <section className="relative w-full bg-[#F8FAFC] pt-20 md:pt-24 pb-12">
             {/* --- SLIDER CONTAINER --- */}
-            <div className="max-w-7xl mx-auto px-4 md:px-10">
+            <div className="w-full px-4 md:px-10">
                 <div className="relative h-[300px] md:h-[450px] lg:h-[500px] w-full overflow-hidden rounded-[24px] md:rounded-[32px] shadow-2xl">
                     <AnimatePresence mode="wait">
                         <motion.div

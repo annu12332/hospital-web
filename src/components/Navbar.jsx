@@ -41,7 +41,7 @@ const Navbar = () => {
         { name: 'About Us', path: '/about', hasDropdown: false },
         { name: 'Specialities', path: '/all-spec', hasDropdown: true },
         { name: 'Health Check', path: '/health-check', hasDropdown: false },
-        { name: 'Online Report', path: '/reports', hasDropdown: false },
+        { name: 'Online Report', path: '/report', hasDropdown: false },
         { name: 'Patient Stories', path: '/all-story', hasDropdown: false },
         { name: 'Career', path: '/career', hasDropdown: false },
     ];
@@ -97,7 +97,7 @@ const Navbar = () => {
                 </div>
             </div>
 
-            {/* MAIN NAVBAR - Slimmer Height on Small Screens */}
+            {/* MAIN NAVBAR*/}
             <div className={`px-5 md:px-10 flex justify-between items-center h-[60px] md:h-[75px] transition-all duration-500 ${scrolled ? 'bg-white/95 backdrop-blur-md shadow-md' : 'bg-white shadow-sm'}`}>
                 <Link to="/" className="flex flex-col">
                     <h1 className="text-2xl md:text-3xl font-black text-[#002B49] leading-none">evercare<span className="text-[#4FC3F7]">.</span></h1>
@@ -168,7 +168,7 @@ const Navbar = () => {
                 </div>
             </div>
 
-            {/* MOBILE SIDEBAR remains same for usability */}
+            {/* MOBILE SIDEBAR  */}
             <AnimatePresence>
                 {isMobileMenuOpen && (
                     <div className="fixed inset-0 z-[999] lg:hidden h-screen w-screen">

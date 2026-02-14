@@ -23,6 +23,7 @@ import AboutUs from './pages/AboutUs'
 import ScrollToTop from './components/ScrollToTop'
 import TeleConsult from './pages/TeleConsult'
 import PackageBookingForm from './forms/PackageBookingForm'
+import OnlineReportPage from './pages/OnlinReport'
 
 function App() {
   return (
@@ -58,6 +59,7 @@ function App() {
         <Route path="/about" element={<AboutUs />} />
         <Route path="/consult" element={<TeleConsult />} />
         <Route path="/book-package/:packageId" element={<PackageBookingForm />} />
+        <Route path="/report" element={<OnlineReportPage />} />
 
 
 
