@@ -61,7 +61,7 @@ const Footer = () => {
                     <div className="flex flex-wrap justify-center gap-x-6 gap-y-3 text-[11px] font-bold uppercase tracking-wide text-gray-300">
                         <Link to="/doctors" className="hover:text-[#4FC3F7]">Find a Doctor</Link>
                         <Link to="/apointment" className="hover:text-[#4FC3F7]">Request an Appointment</Link>
-                        <Link to="/reports" className="hover:text-[#4FC3F7]">Online Report</Link>
+                        <Link to="/report" className="hover:text-[#4FC3F7]">Online Report</Link>
                         <Link to="/career" className="hover:text-[#4FC3F7]">Career</Link>
                         <Link to="/contact" className="hover:text-[#4FC3F7]">Contact Us</Link>
                         <Link to="/all-spec" className="hover:text-[#4FC3F7]">Speciality</Link>
